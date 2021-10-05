@@ -1,0 +1,460 @@
+{
+    "headphone": [
+      {
+        "id": 1,
+        "nama": "JETEX P1",
+        "img": "https://cdn.dorangadget.com/wp-content/uploads/2021/03/JETEX-headset-gaming-terbaik-jetex-p1-pro-series-1.jpg.webp",
+        "spec": {
+          "Wireless": "Tidak",
+          "Driver": "Drivers Speaker 53mm",
+          "Konektivitas": "Jack audio 3,5 mm",
+          "Respons": "20Hz-20KHz",
+          "Fitur": "Mikrofon peredam bising yang dapat dilepas, kontrol kabel in-line",
+          "Berat": "262g",
+          "Durasi": "-",
+          "Impedansi": "64 Ohm"
+        },
+        "info": "Headset Gaming JETEX P1 bisa dibilang sebagai pendatang baru, namun disini menawarkan banyak hal. Kualitas audio yang jernih, cinematic surround sound dan lain sebagainya. Build quality-nya juga bagus untuk harga yang ditawarkan. Menggunakan bahan alumunium dan dibungkus dengan sangat rapi juga lembut membuatnya cukup nyaman untuk bermain game dalam waktu lama. JETEX P1 memiliki dua varian warna, yakni black dan red. Headset ini juga Mmemiliki microphone yang bisa dilepas.",
+        "harga": "Rp. 1,2 jutaan"
+      },
+      {
+        "id": 2,
+        "nama": "Razer Blackshark V2",
+        "img": "https://cdn.dorangadget.com/wp-content/uploads/2021/03/headset-gaming-terbaik-headset-gaming-wireless-5.jpg.webp",
+        "spec": {
+          "Wireless": "Tidak",
+          "Driver": "50mm Razer TriForce Titanium",
+          "Konektivitas": "3,5 mm, sound card USB",
+          "Respons": "12Hz – 28.000Hz",
+          "Fitur": "Mikrofon peredam bising yang dapat dilepas, kontrol kabel in-line",
+          "Berat": "262g",
+          "Durasi": "-",
+          "Impedansi": "32 Ohm"
+        },
+        "info": "Headset gaming Razer Blackshark V2 memiliki segala hal baik dengan menawarkan kualitas audio yang menggelegar, harga terjangkau yang mudah digunakan.  Menggunakan Driver Titanium TriForce 50mm dirancang dengan port terpisah untuk memisahkan nada bass, mid, dan getaran agar tidak saling mengganggu. Hasilnya adalah suara yang lebih kaya dan tetap setara dengan headset driver neodymium 50mm dari HyperX.  Jika Anda mencari headset gaming berkualitas, harga bukanlah masalah besar besar bagi siapa pun yang menginginkan pengalaman audio terbaik.",
+        "harga": "Rp. 2,5 jutaan."
+      },
+      {
+        "id": 3,
+        "nama": "HyperX Cloud II",
+        "img": "https://cdn.dorangadget.com/wp-content/uploads/2021/03/headset-gaming-terbaik-headset-gaming-wireless-4.jpg.webp",
+        "spec": {
+          "Wireless": "Ya",
+          "Driver": "Dinamis, 53mm dengan magnet neodymium",
+          "Konektivitas": "USB Dongle",
+          "Respons": "15Hz-20kHz",
+          "Fitur": "Mikrofon yang bisa dilepas",
+          "Berat": "300g",
+          "Durasi": "30 jam",
+          "Impedansi":"60 Ohm"
+        },
+        "info": "Merupakan penerus dari HyperX Cloud, Cloud II menghadirkan suara yang sangat baik dan kualitas build dengan fitur-fitur penting yang dilakukan dengan baik dan tidak membuat harganya melambung. Soundscape stereo desain closed-back ini lebih kuat di ujung bawah. Namun, bass ekstra tidak mengganggu kejernihan secara keseluruhan. Dalam lingkungan game dan musik, suaranya terdengar bagus. Seri 53mm dengan magnet neodymium memberikan ruang frekuensi rendah, sedang, dan tinggi untuk beresonansi tanpa mengganggu satu sama lain. Dan Anda akan merasakannya saat mendengarkannya. Di tempat lain, ini adalah kualitas build yang mengesankan, bantalan yang empuk dan nyaman, mikrofon yang jernih, dan tingkat kenyamanan yang tinggi selama sesi bermain yang lebih lama selalu ditawarkan oleh desain Cloud II.",
+        "harga":"Rp. 1,2 jutaan."
+      },
+      {
+        "id": 4,
+        "nama": "Razer Thresher Ultimate",
+        "img": "https://cdn.dorangadget.com/wp-content/uploads/2021/03/headset-gaming-terbaik-headset-gaming-wireless-6.jpg.webp",
+        "spec": {
+          "Wireless": "Ya",
+          "Driver": "neodymium 50mm",
+          "Konektivitas": "Nirkabel USB, analog 3.5mm",
+          "Respons": "12Hz-28,000Hz",
+          "Fitur": "Mikrofon searah yang dapat ditarik, RGB, 7.1 Dolby Surround",
+          "Berat": "408g",
+          "Durasi": "16 jam",
+          "Impedansi":"32 Ohm"
+        },
+        "info": "Razer Thresher Ultimate yang lebih baru mungkin menjadi berita utama dengan fitur umpan balik haptic yang memecah belah. Meski begitu, meski terlihat sama, ia memiliki audio yang bisa dibilang lebih lemah daripada Thresher Ultimate klasik. Itulah headset gaming terbaik yang pernah dibuat Razer, dan ini masih layak digunakan sampai saat ini. Untuk mendapatkan speaker ini, Anda harus merogoh kocek cukup dalam sekitar Rp 3 jutaan. Audio yang detail dan kuat dari driver Thresher yang lebih akurat secara aurial tentu lebih banyak disukai karena memberikan kesenangan tersendiri. Koneksi nirkabelnya solid, pas dan nyaman, masa pakai baterai lumayan. Meski tidak terdepan di kelasnya dalam waktu sekitar sepuluh jam. Jika Anda mengambil sepasang telinga kucing merah muda opsional dari toko Razer, Anda dapat membuatnya tampak luar biasa.",
+        "harga":"Rp. 4,6 jutaan"
+      },
+      {
+        "id": 5,
+        "nama": "Steelseries Arctis 9X",
+        "img": "https://cdn.dorangadget.com/wp-content/uploads/2021/03/headset-gaming-terbaik-headset-gaming-wireless-7.jpg.webp",
+        "spec": {
+          "Wireless": "Ya",
+          "Driver": "driver neodymium 40mm",
+          "Konektivitas": "Nirkabel melalui USB, kabel 3,5 mm, Bluetooth",
+          "Respons": "20Hz-22,000Hz",
+          "Fitur": "Mikrofon peredam bising yang dapat ditarik, DTS Headphone: X, 7.1 surround",
+          "Berat": "544g",
+          "Durasi": "20 jam",
+          "Impedansi":"32 Ohm"
+        },
+        "info": "Untuk desain yang kompak, mungkin Anda akan menyukai Arctis 9X karena Anda dapat dengan mudah melupakan model nirkabelnya saat Anda menggunakannya. Tidak ada kebisingan audio yang secara historis merusak output audio untuk headset nirkabel. Harga headset ini ada di kisaran Rp 3 jutaan. Kompatibilitas Bluetooth yang ditambahkan berarti Anda dapat menggunakan headset ini di perangkat seluler Anda juga. Sangat cocok jika Anda berencana untuk bermain game di ponsel atau tablet Anda.  Masa pakai baterai yang hebat bertahan lebih dari 20 jam di luar kotak. Anda juga dapat terus bermain sambil mengisi daya, cukup dengan menyambungkan headset ke PC dengan kabel USB. Ikat kepala yang khas ini benar-benar efektif untuk membuat headset berada di kepala dengan stabil.",
+        "harga": "Rp. 3 jutaan"
+      },
+      {
+        "id": 6,
+        "nama": "Razer Kraken X",
+        "img": "https://cdn.dorangadget.com/wp-content/uploads/2021/03/headset-gaming-terbaik-headset-gaming-wireless-8.jpg.webp",
+        "spec": {
+          "Wireless": "Tidak",
+          "Driver": "40 mm, dengan magnet Neodymium",
+          "Konektivitas": "analog 3.5mm",
+          "Respons": "12Hz-28kHz",
+          "Fitur": "7.1 surround sound, ultra ringan",
+          "Berat": "250g",
+          "Durasi": "-",
+          "Impedansi":"32 Ohm"
+        },
+        "info": "Sebagai alternatif murah untuk headset Kraken, Kraken X adalah opsi hemat anggaran yang unggul di PC karena satu alasan sederhana. Yakni karena memiliki suara surround 7.1 virtual. Tersedia melalui aplikasi, ini meningkatkan audio headset yang sudah bagus berkat kedalaman, kejernihan, dan definisi yang superior. Itu juga membuat sulit untuk kembali ke mode audio standar X. Jika Anda menginginkan kenyamanan yang membuat iri dan desain yang bergaya. Versi Kraken ini menawarkan nilai dan harga yang sepadan. Memiliki noise cancelling untuk suara yang semakin jernih. Mikrofon yang tidak dapat dilepas mungkin sedikit masalah. Tetapi Anda tidak dapat mengeluh ketika mendapatkan suara 7.1 yang sangat baik dengan biaya rendah.",
+        "harga": "Rp. 1 jutaan"
+      },
+      {
+        "id": 7,
+        "nama": " Creative SXFI Gamer",
+        "img": "https://cdn.dorangadget.com/wp-content/uploads/2021/03/headset-gaming-terbaik-headset-gaming-wireless-9.jpg.webp",
+        "spec": {
+          "Wireless": "Tidak",
+          "Driver": "Magnet Neodymium 50 mm",
+          "Konektivitas": "USB-C, Input Stereo 3,5 mm",
+          "Respons": "20-20KHz",
+          "Fitur": "Audio Posisi",
+          "Berat":"336g",
+          "Durasi": "-",
+          "Impedansi":"32 Ohm"
+        },
+        "info": "Headset Creative SXFI Gamer adalah headset yang bagus dengan nama yang sangat jelek. Karena itu, ini tidak boleh menghalangi siapa pun yang mencari pengalaman mendengarkan yang luar biasa secara keseluruhan. Audio position, alias Mode Pertempuran, sangat cocok untuk siapa pun yang ingin membenamkan diri ke dalam Battle Royales favorit seperti Call of Duty: Warzone, PUBG dan lain sebagainya. Headset ini harganya ada di kisaran Rp 3 jutaan. Driver neodymium 50mm memberikan bass yang bagus antara stereo dan mode suara surround. Mikrofon berfungsi dengan baik untuk permainan kompetitif meskipun lampu merah di ujung mungkin menyebalkan.",
+        "harga":"Rp. 1,9 jutaan"
+      },
+      {
+        "id": 8,
+        "nama": "Corsair HS70",
+        "img": "https://cdn.dorangadget.com/wp-content/uploads/2021/03/headset-gaming-terbaik-headset-gaming-wireless-2-1.jpg.webp",
+        "spec": {
+          "Wireless": "Ya",
+          "Driver": "50 mm",
+          "Konektivitas": "Bluetooth",
+          "Respons": "20-20.000 Hz",
+          "Fitur": "Tersedia dalam warna hitam atau putih, mikrofon yang dapat dilepas ",
+          "Berat":"331g",
+          "Durasi": "16 jam",
+          "Impedansi": "32 Ohm"
+        },
+        "info": "Ini adalah karya menakjubkan dari Corsair. Perusahaan telah menyalurkan semua keahliannya dari model kelas atas dan entah bagaimana menekan biaya tanpa mengorbankan sesuatu. Penyebaran stereo dan artikulasi suara secara keseluruhan menjadi sorotan di sini. Driver disetel sejalan dengan tren modern untuk EQ yang lebih datar. Dengan demikian keserbagunaan yang lebih baik saat Anda memainkan PUBG atau saat memutar musik.  Kualitas inilah yang membuat bingung tentang harga HS70 dan suara yang luar biasa. Terasa cukup kokoh untuk bertahan bertahun-tahun tetapi ringan di kepala dan berbantalan dengan baik. Satu-satunya pengecualian adalah ikat kepala yang sedikit kurang empuk.",
+         "harga":"Rp. 1,3 jutaan"
+      },
+      {
+        "id": 9,
+        "nama": "Sennheiser GSP 670",
+        "img": "https://cdn.dorangadget.com/wp-content/uploads/2021/03/headset-gaming-terbaik-headset-gaming-wireless-3-1.jpg.webp",
+        "spec": {
+          "Wireless": "Ya",
+          "Driver": "Magnet neodymium",
+          "Konektivitas": "Bluetooth",
+          "Respons": "10–23.000 Hz",
+          "Fitur": "Stasiun audio USB, surround 7.1 sejati, mikrofon yang dapat dilepas, kontrol on-headset, Bluetooth",
+          "Berat": "398g",
+          "Durasi":"20 jam",
+          "Impedansi": "28 Ohm"
+        },
+        "info": "Sennheiser terkenal dengan perangkat keras audio premiumnya dan headset berkabel seperti GSP 600 membuatnya terkenal untuk bermain game. Mulai saat ini, Anda akan menemukan GSP 670 dipasarkan sebagai EPOS | Sennheiser GSP 670 dan dijual oleh EPOS. Desainnya tidak berubah. Menawarkan konektivitas melalui Bluetooth atau adaptor nirkabel 2,4 GHz yang disertakan, GSP 670 mampu mempertahankan koneksi yang stabil selama sekitar 18 jam dengan sekali pengisian daya. Headset besar ini menghadirkan suara yang berani dan tanpa kompromi. Bentuk dan desain headphone ini tidak cocok untuk semua orang, karena cenderung lebih besar daripada kebanyakan headset gaming. Dan ini membuat nyaman digunakan dalam waktu lama.",
+        "harga":"Rp. 7 jutaan"
+      },
+      {
+        "id": 10,
+        "nama": "JETEX GA5",
+        "img": "https://cdn.dorangadget.com/wp-content/uploads/2020/10/Jete-Headset-Gaming-GA5-1-400x400.jpg.webp",
+        "spec": {
+          "Wireless": "Tidak",
+          "Driver": "Driver 50mm",
+          "Konektivitas": "Bluetooth",
+          "Respons": "20Hz-20KHz",
+          "Fitur": "Stereo sound, volume control, RGB Lighting.",
+          "Berat": "398g",
+          "Durasi":"-",
+          "Impedansi": "21 Ohm"
+        },
+        "info": "Headset Gaming JETEX GA5 adalah headset gaming murah yang bisa menjadi solusi Anda untuk bermain game tetap nyaman. Dengan memiliki driver 50mm yang membuat kualitas Audio semakin jernih. Ini adalah headset berkualitas yang dijual dengan harga Rp 300 ribuan saja. Headset ini memiliki ukuran yang lumayan dan desain lampu RGB pada sisi kanan dan kirinya. Dengan menggunakan Jack Audio, Anda bisa menggunakannya di PC atau di Hp 2 jutaan yang tentunya masih memiliki jack audio.",
+        "harga":"Rp. 300 ribuan"
+      }
+    ],
+    "keyboard": [
+      {
+        "id": 1,
+        "nama": "Sades Thyrsus",
+        "img": "https://cdn.dorangadget.com/wp-content/uploads/2021/05/sades-762x400.jpg.webp",
+        "info": "Rekomendasi keyboard gaming terbaik pertama adalah Sades Thrysus. Dapur pacunya menggunakan switch Kailh LH Blue dengan tingkat responsif tinggi yang mendukung fitur Anti-Ghosting berjalan dengan baik. Maka tak heran jika banyak gamers memilihnya sebagai ‘senjata’ terbaik dalam mengalahkan lawan. Meski dilengkapi dengan fitur dan teknologi canggih yang dimilikinya, pabrikan Sades tetap menjualnya dengan harga yang terjangkau. Tampilan tombolnya yang futuristik menjadikan pengalaman bermain game lebih baik.",
+        "harga":"Rp. 550 ribuan"
+      },
+      {
+        "id": 2,
+        "nama": "Razer Ornata V2",
+        "img": "https://cdn.dorangadget.com/wp-content/uploads/2021/05/keyboard-gaming-terbaik-4-762x400.jpg.webp",
+        "info": "Berikutnya adalah Razer Ornata yang berasal dari Singapura. Di kalangan gamers, brand ini sudah tidak asing lagi karena keandalan teknologi dan fitur yang dimilikinya. Misalnya saja adanya teknologi Razer Mechanical-Membrane Technology yang memberikan kenyamanan penuh saat digunakan seperti responsifnya tinggi dan tidak berisik. Razer Oernata V2 dilengkapi juga dengan Razer Chroma RGB 16,8 juta warna yang memberikan efek dinamis saat memainkan game tingkat tinggi seperti Apex Legends, Fortnite, Overwatch, Warframe, dan sebagainya. Kenyamanan semakin lengkap dengan adanya bantalan tangan empuk dan bahan pembuatannya adalah plastik ABS yang ringan namun tangguh dan kokoh.",
+        "harga": "Rp. 1,4 jutaan"
+      },
+      {
+        "id": 3,
+        "nama": "Logitech G213 Prodigy",
+        "img": "https://cdn.dorangadget.com/wp-content/uploads/2021/05/keyboard-gaming-terbaik-7-762x400.jpg.webp",
+        "info": "Menyebut jajaran keyboard gaming terbaik, kurang rasanya jika tidak memasukkan keyboard gaming Logitech. Salah satunya adalah Logitech G213 Prodigy. Dilengkapi tombol Logitech Mech-Dome dapat memberikan respon taktis dan performa terbaik serta keyboard tidak berisik saat digunakan. Dan performance tuned key membuat responnya empat kali lebih cepat dibanding keyboard biasa. Lightsync RGB Logitech G213 Prodigy memiliki 16,8 juta warna dan berbagai level kecerahan yang bisa Anda sesuaikan dan dikustomisasi menggunakan Logitech G Hub. Kerennya lagi keyboard gaming logitech ini tahan terhadap tumpahan air pada tingkat cairan 60 ml.",
+        "harga": "Rp. 700 ribuan"
+      },
+      {
+        "id": 4,
+        "nama": "Steelseries Apex M500",
+        "img": "https://cdn.dorangadget.com/wp-content/uploads/2021/05/keyboard-gaming-terbaik-3-762x400.jpg.webp",
+        "info": "Selain keyboard gaming Logitech, pilihan selanjutnya yang juga memiliki spesfikasi tinggi adalah Steelseries Apex M500. Keunggulan yang ada pada keyboard gaming terbaik inilah yang membuatnya banyak dipilih oleh atlet esports saat bertanding. Dengan switch Cherry MX Reds membuat fitur Anti-Ghostingnya memiliki performa terbaik. Lampu RGB dengan warna biru menyala membuat tampilannya semakin keren. Lalu, pada bagian bawah terdapat kaki-kaki yang sudah dilapisi karet. Dengan begitu, keyboard tidak akan mudah bergeser ketika digunakan.",
+        "harga":"Rp. 1,5 jutaan"
+      },
+      {
+        "id": 5,
+        "nama": "Logitech G813 LIGHTSYNC RGB",
+        "img": "https://cdn.dorangadget.com/wp-content/uploads/2021/05/keyboard-gaming-terbaik-5-762x400.jpg.webp",
+        "info": "Keyboard gaming Logitech terbaik berikutnya adalah Logitech G813 LIGHTSYNC RGB. Desainnya ultra tipis namun memiliki banyak fitur canggih yang bisa di kustomisasi. Dengan switch mechanical GL simpel membuatnya lebih andal untuk gaming. Tombol pada Logitech G813 LIGHTSYNC RGB bisa dikustomisasi hingga 16,8 juta warna. Bahan bakunya berasal dari 5052 alumunium alloy top case dengan steel reinforced base. Permukaannya terbuat dari brushed metal dan juga oleophobic-coated keycap yang mampu meminimalisir noda sidik jari. Mode pengaturan yang mudah membuatnya layak untuk Anda pilih untuk turnamen maupun bermain game sendiri.",
+        "harga": "Rp. 2,6 jutaan"
+      },
+      {
+        "id": 6,
+        "nama": "JETE KBX1 Series",
+        "img": "https://cdn.dorangadget.com/wp-content/uploads/2021/05/JETE-KBX01Series-762x400.jpg.webp",
+        "info": "JETE selama ini dikenal sebagai brand aksesoris gaming ternama seperti khususnya headset gaming. Namun, rupanya brand satu ini pun mulai merambah ke perangkat gaming lain seperti keyboard gaming. Ini terbukti dengan duluncurkannya JETE KBX1 Series. Berbagai fitur unggulannya pun disematkan seperti adanya RGB Backlit yang membuatnya nampak keren dan menambah pengalaman terbaik saat bermain game. Dari segi tombol pun sebenarnya juga tidak kalah dari keyboard gaming lainnya. Yakni dengan empat tombol standar multimedia dan 19 tombol anti-ghosting. Fitur unggulan lainnya adalah anti-slip yang membuat Anda semakin mudah saat menggunakannya tanpa khawatir terlewatkan momen-momen terbaik saat bermain game.",
+        "harga":"Rp. 1 jutaan"
+      },
+      {
+        "id": 7,
+        "nama": "Logitech G Pro X",
+        "img": "https://cdn.dorangadget.com/wp-content/uploads/2021/05/keyboard-gaming-terbaik-8-762x400.jpg.webp",
+        "info": "Keyboard gaming Logitech G Pro X dirancang khusus untuk kenyamanan dan fungsi optimal. Menggunakan swtich mekanikal Romer G dengan dual-contact redundant membuat performanya andal saat digunakan tanpa meleset. Desainnya sendiri mengusung tenkeyless untuk memberikan kenyamanan yang ringkas saat digunakan. Lampu RGB full spectrumnya dapat disesuaikan dengan pencahayaan khusus. Ditambah lagi dengan fitur Anti-Ghostingnya memberikan keandalan dan kenyamanan tingkat tinggi dan memberikan Anda pengalaman bermain game terbaik dan kalahkan semua lawan Anda dengan mudah.",
+        "harga":"Rp. 1,6 jutaan"
+      },
+      {
+        "id": 8,
+        "nama": "JETE KBX2 Series",
+        "img": "https://cdn.dorangadget.com/wp-content/uploads/2021/05/JETE-KBX2-Series-762x400.jpg.webp",
+        "info": "Tak cukup hanya seri JETE KBX1 Series saja, JETE juga mengeluarkan keyboard gaming terbaik lainnya yakni JETE KBX2 Series dengan key number sebanyak 112 dan kabel 1.5 meter. Fitur tombol FN Multimedianya memudahkan pengguna melakukan pengaturan hiburan sembari bermain game. Ditambah lagi adanya fitur 8 tombol multimedia membuat pengoperasian standar pada komputer lebih mudah. Tak ketinggalan, fitur 19 tombol anti-ghosting juga disematkan. Selain itu juga memiliki fitur backlit dan floating keys yang membuat tombol nampak lebih besar dan menonjol (floating) untuk memudahkan pengguna saat mengoperasikannya maupun gerakan cepat. Keyboard gaming ini juga kompatibel digunakan di berbagai perangkat PC gaming. Seperti Windows 2OOO, XP, Vista, Windows7/8/10 dan Linux serta MAC.",
+        "harga":"Rp. 1 jutaan"
+      },
+      {
+        "id": 9,
+        "nama": "Logitech G512 Mechanical",
+        "img": "https://cdn.dorangadget.com/wp-content/uploads/2021/05/keyboard-gaming-terbaik-6-762x400.jpg.webp",
+        "info": "Setelah sukses dengan keyboard gaming Logitech sebelumnya, parbikan ini juga mengeluarkan Logitech G512 Mechanical. Kerennya, keyboard gaming ini bisa dikustomisasi dan Anda bebas memilih satu dari tiga switch mecanichal yang ada seperti Romer G Tactile, Romer G Linear dan GX Blue. Kualitasnya sudah tidak diragukan lagi dan telah melewati pengujian 70 juta klik. Bahan baku Logitech g512 Mechanical adalah alumunium magnesium alloy. Desainnya yang minimalis membuat tampilannya memiliki estetika tinggi di samping performa tangguh seperti fitur Anti-Ghosting dan sebagainya.Ditambah lagi jika Anda menggunakan mouse gaming Logitech G Pro X Superlight untuk mendapatkan pengalaman optimal dalam bermain game.",
+        "harga": "Rp. 1,3 jutaan"
+      },
+      {
+        "id": 10,
+        "nama": "Asus ROG Claymore",
+        "img": "https://cdn.dorangadget.com/wp-content/uploads/2021/05/asus-ROG-762x400.jpg.webp",
+        "info": "Di kalangan gamers, Asus memang tak asing lagi untuk keyboard gaming terbaik. Salah satu produk yang bisa Anda pilih adalah Asus ROG Claymore. Tak hanya unggul dari segi desain tampilannya fitur yang ditawarkan juga mumpuni. Misalnya Cherry MX Switch yang lebih responsif dan polling rate tinggi hingga 1000 Hz. Penyesuaian kustomisasi lebih mudah ddengan softeware ROG Armoury yang dapat Anda gunakan dalam pengaturan macro, sync, RGB, hingga pengaturan tombol. Bahan bakunya pun berasal dari alumunium kualitas tinggi yang tangguh saat digunakan",
+        "harga": "Rp. 2,8 jutaan"
+      }
+    ],
+    "monitor": [
+      {
+        "id": 1,
+        "nama": "Lenovo G32qc-10",
+        "img": "https://pickybest.id/wp-content/uploads/2021/01/Lenovo-G32qc-10.jpg",
+        "info": "Kendati sudah dibekali resolusi 1440p dengan refresh rate 144 Hz, harga dari monitor Lenovo ini hanya di bawah lima juta. Sudah begitu, layarnya juga memakai panel VA. Lancar dipakai gaming, tanpa mengorbankan fungsionalitasnya untuk kebutuhan lain! Untuk Anda yang mau bermain gim fast-paced, Lenovo G32qc-10 memiliki response time 1 ms MPRT untuk memastikan tidak terjadi ghosting. Monitor ini juga berlayar curved untuk memberi bidang pandang (field of view) yang lebih lebar.",
+        "spec": {
+          "Resolusi": "2560 x 1440",
+          "Refresh ": "144 Hz",
+          "Response": "1 ms MPRT",
+          "Adaptive": "AMD FreeSync",
+          "Tipe": "VA",
+          "Ukuran": "31,5 inchi"
+        }
+      },
+      {
+        "id": 2,
+        "nama": "MSI Optix G27CQ4",
+        "img": "https://pickybest.id/wp-content/uploads/2021/01/MSI-Optix-G27CQ4.jpg",
+        "info": "Saat bermain gim kompetitif, Anda mungkin pernah dibunuh oleh musuh yang tidak Anda sadari kehadirannya di area gelap. Supaya tidak kecolongan seperti ini lagi, Anda bisa coba panel VA MSI Optix G27CQ4 satu ini. Dengan rasio kontrasnya yang tinggi 3000:1, karakter tetap dapat terlihat jelas walaupun sedang berada di tempat gelap. Monitor ini juga nyaman dipakai untuk sesi gaming yang lama berkat teknologi blue right reduction yang membuat mata tidak cepat lelah. Kocek yang perlu Anda keluarkan pun relatif cukup terjangkau, apalagi mengingat refresh rate-nya sudah 165 Hz.",
+        "spec": {
+          "Resolusi": "2560 x 1440",
+          "Refresh ": "165 Hz",
+          "Response": "1 ms MPRT",
+          "Adaptive": "AMD FreeSync",
+          "Tipe": "VA",
+          "Ukuran": "27 inchi"
+        }
+      },
+      {
+        "id": 3,
+        "nama": "BenQ ZOWIE XL2746S",
+        "img": "https://pickybest.id/wp-content/uploads/2021/01/BenQ-ZOWIE-XL2746S.jpg",
+        "info": "BenQ ZOWIE adalah brand monitor yang paling banyak dipakai oleh para pemain esports profesional. Tentu bukan tanpa alasan. Monitor ZOWIE memang mengutamakan aspek performa di atas apapun, termasuk pada varian XL2746S berikut ini. Tidak terdapat fitur aneh-aneh. Panelnya pun tidak mewah, hanya pakai TN. Tetapi, bila Anda perhatikan spesifikasinya pada tabel di bawah, Anda bisa lihat betapa kencangnya monitor ini. Jika Anda punya komitmen tinggi pada gim kompetitif yang Anda tekuni, produk ini adalah salah satu yang terbaik buat Anda.",
+        "spec": {
+          "Resolusi": "1920 x 1080",
+          "Refresh ": "240 Hz",
+          "Response time": "0,5 ms MPRT",
+          "Adaptive": "AMD FreeSync",
+          "Tipe": "TN",
+          "Ukuran": "27 inchi"
+        }
+      },
+      {
+        "id": 4,
+        "nama": "Asus ROG Swift 360Hz PG259QN",
+        "img": "https://pickybest.id/wp-content/uploads/2021/01/Asus-ROG-Swift-360Hz-PG259QN.jpg",
+        "info": "Monitor satu ini diciptakan untuk Anda yang punya gaming rig di tingkat high-end dengan GPU yang mampu me-render hingga 360 FPS. Tentu, gim-gim yang bisa dimainkan dengan FPS setinggi itu kebanyakan adalah gim-gim e-sports. Meski mengimplementasikan panel IPS, monitor ini mempunyai response time instan yang berjalan praktis pada 2 sampai 4 ms dan pada pengaturan tertentu, bahkan bisa mencapai 1 ms.",
+        "spec": {
+          "Resolusi": "1920 x 1080",
+          "Refresh ": "360 Hz",
+          "Response time": "1 ms GIG",
+          "Adaptive": "Nvidia G-Sync",
+          "Tipe": "IPS",
+          "Ukuran": "24,5 inchi"
+        }
+      },
+      {
+        "id": 5,
+        "nama": "LG UltraGear 24GN600-B",
+        "img": "https://pickybest.id/wp-content/uploads/2021/01/LG-UltraGear-24GN600-B.jpg",
+        "info": "Bila budget Anda terbatas, monitor LG ini hanya mematok harga dua jutaan saja. Di harga segitu, Anda sudah mendapatkan monitor berpanel IPS dengan refresh rate 144 Hz yang lebih dari cukup menunjang gim paling kompetitif sekalipun. Meski harganya terjangkau, monitor ini terlihat sangat berkelas, terutama berkat bezel-nya yang sangat tipis. Dikombinasikan dengan layar IPS yang menghasilkan visual lebih hidup, pengalaman gaming Anda bakal terasa lebih imersif dari sebelumnya.",
+        "spec": {
+          "Resolusi": "1920 x 1080",
+          "Refresh ": "144 Hz",
+          "Response time": "1 ms GIG",
+          "Adaptive": "AMD FreeSync",
+          "Tipe": "IPS",
+          "Ukuran": "24 inchi"
+        }
+      },
+      {
+        "id": 6,
+        "nama": "Asus VG278Q",
+        "img": "https://pickybest.id/wp-content/uploads/2021/01/Asus-VG278Q.jpg",
+        "info": "Yang paling menarik perhatian dari Asus VG278Q adalah teknologi adaptive sync-nya yang bisa pakai AMD FreeSync dan N-Vidia G-Sync. Artinya, apa pun pabrikan GPU sistem Anda, teknologi adaptive sync-nya akan selalu bekerja dengan baik untuk memuluskan gameplay dan mencegah terjadinya visual artifact. Selain itu, monitor Asus yang harganya relatif terjangkau ini telah dilengkapi speaker bawaan. Tentu kualitas suaranya tidak setara dengan speaker premium. Namun, kehadirannya menyediakan alternatif ketika Anda sedang lelah memakai headphone.",
+        "spec": {
+          "Resolusi": "1920 x 1080",
+          "Refresh ": "144 Hz",
+          "Response time": "1 ms GIG",
+          "Adaptive": "AMD FreeSync dan Nvidia G-Sync",
+          "Tipe": "TN",
+          "Ukuran": "27 inchi"
+        }
+      },
+      {
+        "id": 7,
+        "nama": "AOC Agon AG241QG",
+        "img": "https://pickybest.id/wp-content/uploads/2021/01/AOC-Agon-AG241QG.jpg",
+        "info": "AOC Agon AG241QG adalah monitor yang cukup unik karena memiliki resolusi 1440p yang diimplementasikan pada layar ukuran 24 inci. Hasilnya, piksel lebih rapat dan visual menjadi jauh lebih detail dan tajam dibanding monitor 24 inci lainnya —yang kebanyakan masih berada di resolusi 1080p. Dalam konteks gaming, piksel yang lebih rapat bakal menguntungkan untuk memperjelas objek yang berukuran kecil. Jadi, Anda akan lebih mudah Anda dalam membidik musuh yang jaraknya jauh dalam gim shooter kompetitif.",
+        "spec": {
+          "Resolusi": "1920 x 1080",
+          "Refresh ": "165 Hz",
+          "Response time": "1 ms GIG",
+          "Adaptive": "Nvidia G-Sync",
+          "Tipe": "TN",
+          "Ukuran": "23,8 inchi"
+        }
+      },
+      {
+        "id": 8,
+        "nama": "ViewSonic XG2405",
+        "img": "https://pickybest.id/wp-content/uploads/2021/01/ViewSonic-XG2405.jpg",
+        "info": "Kami punya satu lagi monitor gaming berpanel IPS yang harganya kompetitif untuk Anda. Produk ViewSonic ini menghasilkan kualitas gambar yang konsisten di semua viewing angle. Performanya pun kencang karena punya refresh rate hingga 144 Hz. Kalau Anda seorang gamer konsol, monitor ini juga bisa digunakan sebagai alternatif televisi karena memiliki speaker bawaan. Meski begitu, karena ukurannya hanya 24 inci, Anda mungkin tidak bisa couch gaming karena harus duduk dalam jarak yang dekat.",
+        "spec": {
+          "Resolusi": "1920 x 1080",
+          "Refresh ": "144 Hz",
+          "Response time": "1 ms GIG",
+          "Adaptive": "AMD FreeSync",
+          "Tipe": "IPS",
+          "Ukuran": "24 inchi"
+        }
+      },
+      {
+        "id": 9,
+        "nama": "Samsung Odyssey G7",
+        "img": "https://pickybest.id/wp-content/uploads/2021/01/Samsung-Odyssey-G7.jpg",
+        "info": "Keseluruhan spesifikasi dari Odyssey G7 menjadikannya monitor gaming paling ideal dalam daftar rekomendasi kami kali ini. Ukuran layar 27 inci memberikan bidang pandang yang luas tanpa membuatnya kebesaran. Sedangkan, keseimbangan pandangannya ke setiap sudut layar terjaga konsisten berkat permukaannya yang cekung. Dari segi performa, refresh rate tinggi dan response time rendah monitor ini mampu menunjang sesi paling intens dalam permainan di level e-sports sekalipun. Dengan sistem dan desain build yang apik, kami rasa harga 12 jutaan yang dibanderol Samsung untuk produk ini sangatlah worth to buy.",
+        "spec": {
+          "Resolusi": "2560 x 1440",
+          "Refresh ": "240 Hz",
+          "Response time": "1 ms GIG",
+          "Adaptive": "AMD FreeSync dan Nvidia G-Sync",
+          "Tipe": "VA",
+          "Ukuran": "26,9 inchi"
+        }
+      },
+      {
+        "id": 10,
+        "nama": "Samsung Odyssey G9",
+        "img": "https://pickybest.id/wp-content/uploads/2021/01/Samsung-Odyssey-G9.jpg",
+        "info": "Monitor ultrawide seperti ini lebih sering dipakai sebagai workstation karena menyediakan display luas untuk membuka banyak windows sekaligus. Begitu halnya dengan Odyssey G9, yang bisa juga dijadikan workstation yang nyaman. Tetapi, karena Samsung merancangnya sebagai monitor gaming, ia diberikan kemampuan refresh rate hingga 240 Hz dan response time yang rendah. Field of view monitor ini sangat luas dan imersif, bahkan mendekati virtual reality (VR) headset. Itulah sebabnya, Anda mungkin bakal mengalami sedikit motion sickness di awal penggunaan jika belum terbiasa. Di sisi lain, harganya yang cukup tinggi mungkin bakal membuat Anda berpikir dua kali. Tetapi, produk ini sangatlah pantas untuk dipertimbangkan jika Anda punya budget ekstra besar.",
+        "spec": {
+          "Resolusi": "5120 x 1440",
+          "Refresh ": "240 Hz",
+          "Response time": "1 ms GIG",
+          "Adaptive": "AMD FreeSync dan Nvidia G-Sync",
+          "Tipe": "VA",
+          "Ukuran": "49 inchi"
+        }
+      }
+    ],
+    "mouse": [
+      {
+        "id": 1,
+        "nama": "JETE MSX1 Series",
+        "img": "https://cdn.dorangadget.com/wp-content/uploads/2021/04/04.-mouse-gaming-jete-msx1-400x400.jpg.webp",
+        "info": "Selama ini JETE dikenal sebagai brand aksesoris gadget sekaligus perangkat gaming terutama headset gaming. Kini, brand tersebut mulai serius merambah sektor mouse gaming. Hal itu terlihat dari dirilisnya mouse untuk gaming perdananya yakni JETE MSX1 Series. Terdapat enam tombol untuk pemrograman yang lebih baik dan responsif. Desainnya pun sangat nyaman dalam genggaman dan terdapat fitur anti-slip yang memudahkan pengguna bebas hambatan melewatkan momen seru. Selain itu memiliki 800-1000-1600-24000 DPI dan menyesuaikannya sangat mudah dengan satu tombol saja.",
+        "harga":"Rp. 600 ribuan"
+      },
+      {
+        "id": 2,
+        "nama": "Rexus Daxa Air Pro Wireless",
+        "img": "https://cdn.dorangadget.com/wp-content/uploads/2021/04/mouse-gaming-3-400x400.jpg.webp",
+        "info": "Selanjutnya ada Rexus Daxa Air Pro Wireless yang menjadi pilihan bagi gamers kelas menengah. Desainnya cukup unik dengan mengusung tema honeycomb dengan berat hanya 70 gram saja. Ini memungkinkan Anda untuk lebih leluasa menggunakan, menggeser, dan memindahkan mouse dengan cepat saat bermain game. Sensor yang digunakan adalah Pixart PAW 3335 dan DPI hingga 16.000. Tombolnya sendiri menggunakan Omron yang disebut-sebut mampu bertahan hingga 20 juta kali klik. Dari segi koneksi, bisa menggunakan wireless dengan zero delay atau menggunakan sistem koneksi kabel paracord Type-C.",
+        "harga": "Rp. 900 ribuan"
+      },
+      {
+        "id": 3,
+        "nama": "Logitech G Pro Mouse Gaming",
+        "img": "https://cdn.dorangadget.com/wp-content/uploads/2021/03/Logitech-G-Pro-Gaming-Mouse-400x400.jpg.webp",
+        "info": "Jika sebelumnya Logitech mengeluarkan mouse gaming seri G Pro dengan koneksi nirkabel, kini ada pula seri G Pro yang menggunakan kabel. Tidak tanggung-tanggung, kabel yang disematkan memiliki panjang 2,1 meter dan sesuai standar profesional. Yakni berbahan premium yang lebih ringan, mulus, dan fleksibel, serta bebas PVC. Sensornya masih sama dengan sebelumnya, yakni mengandalkan HERO 25K dan memiliki 6 tombol untuk diprogram dan dikonfigurasi. Fitur lainnya adalah sistem pengencangan tombol mekanik, dan berat untuk mouse ini sendiri hanya 850 gram.",
+        "harga": "Rp. 1 jutaan"
+      },
+      {
+        "id": 4,
+        "nama": "Fantech Helios XD3",
+        "img": "https://cdn.dorangadget.com/wp-content/uploads/2021/04/mouse-gaming-1-400x400.jpg.webp",
+        "info": "Brand Fantech menjadi salah satu brand lokal ternama di jajaran mouse gaming terbaik. Kali ini, Fantech mengeluarkan seri Helios XD3 dengan spesifikasi dan fitur utamanya. Sensornya menggunakan PixArt3335 yang dapat digunakan dalam mendukung dua koneksi. Baik mode wireless maupun kabel. Kapabilitas Helios XD3 semakin mumpuni dengan dukungan DPI 400 – 1600. Selain itu, menggunakan fitur Huano Switch, membuatnya dapat bertahan hingga 50 juta kali klik. Tersedia tiga warna pilihan yakni putih, hitam, dan pink yang bisa Anda pilih",
+        "harga":"Rp. 550 ribuan"
+      },
+      {
+        "id": 5,
+        "nama": "Logitech G603 Lightspeed Wireless Mouse Gaming",
+        "img": "https://cdn.dorangadget.com/wp-content/uploads/2021/03/Logitech-G603-Wireless-Gaming-Mouse-400x400.jpg.webp",
+        "info": "Mouse gaming Logitech G603 Lightspeed Wireless juga bisa Anda pilih untuk pengalaman gaming yang makin berkesan. Dengan sensor HERO 25K dan DPI 200 – 12.000 membuatnya semakin kompatibel untuk digunakan dalam berbagai perangkat dengan koneksi bluetooth 2,4 GHz. Baterainya pun dinilai cukup tangguh dan tahan lama bahkan hingga 500 jam non-stop.  Memiliki 6 tombol, dapat digunakan untuk pemrograman dan pengaturan sensitivitas menggunakan G Hub. Dengan tombol mekanik Romer-G membuatnya mudah diprogram dengan banyak fitur gaming lainnya.",
+        "harga": "Rp. 1 jutaan"
+      },
+      {
+        "id": 6,
+        "nama": "Razer Viper Ultimate Wireless",
+        "img": "https://cdn.dorangadget.com/wp-content/uploads/2021/04/mouse-gaming-2-400x400.jpg.webp",
+        "info": "Razer merupakan mouse gaming andalan dengan logonya yang terkenal yakni ular hijau. Menggunakan sensor RazerFocus+, tingkat akurasinya bisa mencapai 99,6% dan didukung dengan DPI hingga 20.000. Baterai mousenya pun memiliki ketahanan tinggi yang mampu bertahan hingga 70 jam. Sementara itu, desain luarnya sangat ergonomis dengan berat hanya 74 gram saja. Kemudian, memiliki desain Ambidextrous yang memungkinkan untuk digunakan dengan tangan kanan maupun tangan kiri.",
+        "harga":"Rp. 2,3 jutaan"
+      },
+      {
+        "id": 7,
+        "nama": "Logitech G604 Lightspeed Wireless Mouse Gaming",
+        "img": "https://cdn.dorangadget.com/wp-content/uploads/2021/04/mouse-gaming-2-400x400.jpg.webp",
+        "info": "Keandalan Logitech G604 Lightspeed Wireless untuk menghadirkan pengalaman terbaik bermain game adalah dibekali dengan 15 kendal yang bisa Anda program. Sensornya menggunakan HERO 16K dengan penelusuran 1:1 yang terbaik dan akurat dengan DPI maksimal 16.000 Dpi. Bahkan, dengan satu klik saja, bisa memungkinkan Anda berganti lightspeed wireless ultra-cepat 1md dan bluetooth. Desainnya yang pas di tangan dan bobot yang ringan, membuatnya semakin mudah dikendalikan.",
+        "harga":"Rp. 1,4 jutaan"
+      },
+      {
+        "id": 8,
+        "nama": "SteelSeries Rival 650 Wireless",
+        "img": "https://cdn.dorangadget.com/wp-content/uploads/2021/04/mouse-gaming-4-400x400.jpg.webp",
+        "info": "Jika Anda menginginkan mouse gaming terbaik dengan fitur fast-charging, pilihan tepat pada SteelSeries Rival 650 Wireless. Dengan lama pengisian sekitar 15 menit, Anda dapat menggunakannya hingga jangka waktu 10 jam. Anda juga bisa melakukan kustomisasi sesuai keinginan dan kebutuhan secara mudah. Sensor yang dimiliki oleh mouse gaming ini menggunakan TrueMove3+ Dual SensorSystem. Sensor ini memungkinkan penggunanya untuk mengontrol mouse secara penuh, meskipun dalam kondisi sedikit mengambang sekalipun. Tombol penyesuaian ada 7 tombol dengan IPS 350 IPS dan DPI 100-12.00 yang bisa disesuaikan. Begitu juga dengan beratnya yang hanya 121 gram saja dan polling rate 1.000/s",
+        "harga":"Rp. 1,8 jutaan"
+      },
+      {
+        "id": 9,
+        "nama": "Logitech G703 Lightspeed Wireless Mouse Gaming",
+        "img": "https://cdn.dorangadget.com/wp-content/uploads/2021/03/Logitech-G703-Hero-Lightspeed-Wireless-Mouse-Gaming-1-400x400.jpg.webp",
+        "info": "Di jajaran mouse gaming wireless, Logitech G703 Lightspeed Wireless Mouse Gaming diklaim memiliki kemampuan terbaik dan responsif di kelasnya. Ini dibuktikan dengan kecepatannya 8 kali lebih tinggi bila dibandingkan mouse standar. Inilah yang membuatnya sangat cocok bagi Anda pecinta game FPS. Terlebih lagi bila Anda menyematkan powerplay, maka tak perlu khawatir lagi kehabisan baterai ketika sedang bermain. Dilengkapi dengan enam tombol pengaturan, tentu Anda bisa menyesuaikan pemakaian dengan mudah. Mode koneksinya bisa disesuaikan dengan sistem wireless maupun wired. Kemudian, dilengkapi dengan sensor HERO 25K membuatnya semakin andal dengan penelusuran 1:1. IPS yang disematkan adalah 400+ dan sensitivitas DPI maksimal 100 – 25.600.",
+        "harga": "Rp. 1,4 jutaan"
+      },
+      {
+        "id": 10,
+        "nama": "JETE MSX3 Series",
+        "img": "https://cdn.dorangadget.com/wp-content/uploads/2021/04/04.-mouse-gaming-jete-msx3-400x400.jpg.webp",
+        "info": "Tak hanya seri JETE MSX1 Series yang disebutkan di atas saja, JETE juga mengeluarkan seri lainnya yakni JETE MSX3 Series. Dimana pada seri ini dilengkapi tujuh tombol pemrograman seperti Left Button, Right Button, Forward Button, Backward Button, Mid Button, DPI Switching Button, dan Light Control. Lampu RGB yang ada selain menambah kesan keren juga memberikan pengalaman terbaik saat memaikan game kesayangan Anda. Selain itu juga memiliki fitur 800-1200-1600-2400DPI dan koneksinya lebih nyaman dengan kabel sepanjang 1.6 meter. Sedangkan ketahanan penggunaannya hingga 3 juta kali. ",
+        "harga": "Rp. 700 ribuan"
+      }
+    ]
+  }

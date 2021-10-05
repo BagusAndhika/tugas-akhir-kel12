@@ -36,3 +36,41 @@
     transform: rotate(360deg);
   }
 }
+
+header {
+  display: flex;
+  background-color: #20232a;
+  justify-content: space-between;
+  padding: 0 60px;
+  align-items: center;
+  height: 10vh;
+}
+
+.text {
+  font-size: 24px;
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.text:hover {
+  color: rgb(97, 218, 251);
+  cursor: pointer;
+}
+
+.navtext2 {
+  margin: 0px 20px;
+}
+
+p {
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  font-size: large;
+}
+
+.title p {
+  color: rgb(97, 218, 251);
+  font-weight: bold;
+  font-size: 24px;
+}
